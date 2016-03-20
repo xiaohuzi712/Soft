@@ -1,0 +1,32 @@
+[ 2016-03-20T21:49:41+08:00 ] 127.0.0.1 /MySite/Soft/Web/Public/css/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001176s ]
+NOTIC: [2] array_map() [<a href='function.array-map'>function.array-map</a>]: Argument #2 should be an array E:\Wamp\wamp\www\MySite\Soft\Web\ThinkPHP\Common\functions.php 第 1549 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given E:\Wamp\wamp\www\MySite\Soft\Web\ThinkPHP\Common\functions.php 第 1549 行.
+ERR: 无法加载模块:Public
+
+[ 2016-03-20T21:49:58+08:00 ] 127.0.0.1 /MySite/Soft/Web/Public/css/Public/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000200s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002605s ]
+NOTIC: [2] array_map() [<a href='function.array-map'>function.array-map</a>]: Argument #2 should be an array E:\Wamp\wamp\www\MySite\Soft\Web\ThinkPHP\Common\functions.php 第 1549 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given E:\Wamp\wamp\www\MySite\Soft\Web\ThinkPHP\Common\functions.php 第 1549 行.
+ERR: 无法加载模块:Public
+
+[ 2016-03-20T21:50:07+08:00 ] 127.0.0.1 /MySite/Soft/Web/Public/css/Public/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000134s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001246s ]
+NOTIC: [2] array_map() [<a href='function.array-map'>function.array-map</a>]: Argument #2 should be an array E:\Wamp\wamp\www\MySite\Soft\Web\ThinkPHP\Common\functions.php 第 1549 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given E:\Wamp\wamp\www\MySite\Soft\Web\ThinkPHP\Common\functions.php 第 1549 行.
+ERR: 无法加载模块:Public
+
+[ 2016-03-20T21:50:14+08:00 ] 127.0.0.1 /MySite/Soft/Web/Public/Public/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000224s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006511s ]
+NOTIC: [2] array_map() [<a href='function.array-map'>function.array-map</a>]: Argument #2 should be an array E:\Wamp\wamp\www\MySite\Soft\Web\ThinkPHP\Common\functions.php 第 1549 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given E:\Wamp\wamp\www\MySite\Soft\Web\ThinkPHP\Common\functions.php 第 1549 行.
+ERR: 无法加载模块:Public
+
