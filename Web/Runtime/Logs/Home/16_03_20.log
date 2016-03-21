@@ -2352,3 +2352,25 @@ INFO: [ app_end ] --START--
 INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000957s ]
 INFO: [ app_end ] --END-- [ RunTime:0.001562s ]
 
+[ 2016-03-20T22:21:19+08:00 ] ::1 /MySite/Soft/Web/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000195s ]
+INFO: [ app_init ] --END-- [ RunTime:0.027871s ]
+NOTIC: [2] array_map() [<a href='function.array-map'>function.array-map</a>]: Argument #2 should be an array E:\Wamp\wamp\www\MySite\Soft\Web\ThinkPHP\Common\functions.php 第 1549 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given E:\Wamp\wamp\www\MySite\Soft\Web\ThinkPHP\Common\functions.php 第 1549 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.026925s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.027873s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000497s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001570s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.196617s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.197794s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.076658s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.077824s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.018956s ]
+INFO: [ app_end ] --END-- [ RunTime:0.020203s ]
+
